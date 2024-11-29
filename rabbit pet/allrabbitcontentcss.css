@@ -1,0 +1,46 @@
+
+        .container{
+           height: 1150px;
+           background-color: rgb(227, 227, 236);
+           width: 1000px;
+           margin-left: 150px;
+           border: solid;
+           border-color: rgb(178, 186, 192);
+           border-radius: 20px;
+           padding: 10px;
+           margin-top: 50px;
+        }
+        .imagediv{
+            width:1000px;
+            height: 500px;
+            border: solid;
+            border-color: rgb(232, 236, 240);
+            border-radius: 10px;
+
+        }
+        .parastyle{
+            font-size: 20px;
+            font-family: 'Courier New', Courier, monospace;
+            color: rgb(66, 85, 88);
+            
+        }
+        h1{
+            display: inline-block;
+            margin-left: 350px;
+        }
+        button{
+            margin-left: 200px;
+            padding: 8px;
+            width: 100px;
+            border-color: rgb(158, 162, 165);
+            border-radius: 10px;
+            background-color: rgb(25, 207, 55);
+        }
+        .secondh1{
+            display: inline-block;
+            margin-left: 150px;
+        }
+        a{
+            text-decoration: none !important;
+        }
+    

@@ -1,0 +1,28 @@
+img{
+                width: 700px;
+                height: 400px;
+                margin-left: 350px;
+            }
+            table{
+                width: 70%;
+                margin: 20px;
+                margin-left: 250px;
+            }
+            h2{
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                color: rgb(7, 85, 13);
+            }
+            tr{
+                background-color: rgb(219, 233, 233);
+                height: 40px;
+                color: rgb(27, 24, 24);
+               border-bottom: 1px solid;
+                font-size: 20px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            .tdleft{
+                padding-right: 100px;
+            } 
+            .price{
+                color: rgb(185, 27, 27);
+            }

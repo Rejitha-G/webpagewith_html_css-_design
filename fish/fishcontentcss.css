@@ -1,0 +1,39 @@
+
+        .container{
+            height: 1000px;
+           background-color: rgb(227, 227, 236);
+           width: 1000px;
+           margin-left: 150px;
+           border: solid;
+           border-color: rgb(178, 186, 192);
+           border-radius: 20px;
+           padding: 10px;
+           margin-top: 50px;
+        }
+        .imagediv{
+            width:1000px;
+            height: 500px;
+            border: solid;
+            border-color: rgb(232, 236, 240);
+            border-radius: 10px;
+        }
+        .secondpara{
+            height: 300px;
+
+        }
+        p{
+            font-size:20px ;
+            color:rgb(82, 79, 73);
+            font-family: 'Courier New', Courier, monospace;
+        }
+        button{
+            width: 200px;
+            padding: 10px;
+            margin-left: 400px;
+            background-color: rgb(20, 218, 63);
+            border-color: rgb(217, 227, 236);
+            
+        }
+    
+
+    
