@@ -1,0 +1,46 @@
+
+    .container{
+        height: 500px;
+        width: 500px;
+        border-radius: 20px;
+        border-color: rgb(158, 168, 177);
+        margin-top: 70px;
+        margin-left: 350px;
+        background-color: rgb(65, 60, 55);
+        padding-top:2px
+    }
+    h1{
+        margin-left: 150px;
+        margin-top:15px;
+
+    }
+    input{
+        width: 300px;
+        height: 60px;
+        border-color: rgb(114, 118, 121);
+        background-color: rgb(196, 231, 231);
+        border-radius: 30px;
+        margin-bottom: 5px;
+        margin-top: 20px;
+        margin-left: 80px;
+       
+    }
+    input::placeholder{
+        padding-left: 10px;
+        font-size: 20px;
+        color: black;
+    }
+    button{
+        width: 200px;
+        height: 50px;
+        background-color: rgb(34, 230, 16);
+        border-color: rgb(87, 90, 90);
+        margin-left: 150px;
+        margin-top: 120px;
+       
+    }
+    .stylediv{
+        height: 200px;
+    }
+
+   

@@ -1,0 +1,196 @@
+body{
+            margin: 0px;
+            
+            background-color: rgb(221, 218, 201);
+            
+        }
+        .containerhead{
+            background-color: rgb(112, 104, 59);
+            
+        }
+        .div1{
+           
+            background-color: rgb(40, 4, 97);
+            height:80pxpx;
+            display: flex;
+            justify-content: space-between;
+            
+        }
+        .admin{
+               margin-right: 20px;
+               margin-top: 30px;
+        }
+        .adminspan{
+            color: rgb(36, 36, 175);
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .div2{
+         
+            background-color: rgb(255, 232, 99);
+            height:130px;
+            display: flex;
+            justify-content: space-between;
+
+        
+        }
+        .firstp{
+            color: rgb(153, 207, 25);
+            font-size: 30px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            margin-left: 550px;
+         }
+         .image1{
+            width:100px;
+            border-radius: 100px;
+            border:solid;
+            border-color: black;
+            margin-top: 15px;
+            margin-left: 50px;
+         }
+         .div2elem{
+            display: flex;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            margin-top: 15px;
+            margin-left: -40px;
+            align-content: center;
+         }
+         .headp2{
+            font-size: 30px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color: black;
+           
+         }
+         .headp3{
+            font-size: 35px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: rgb(206, 41, 41);
+            margin-right: 30px;
+            
+         }
+        .imagediv{
+            height: 500px;
+            background-color: rgb(79, 76, 82);
+            margin-top: 30px;
+            position: relative;
+           
+           
+            
+        } 
+        .image2{
+           width: 100%;
+           height: 700px;
+          
+        }
+        .imagecontent{
+            position: absolute;
+            top: 30px;
+            left:30%;
+
+        }
+       .imagecontent1{
+            position: absolute;
+            top: 450px;
+            left:17%;
+       }
+        .imgp{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size:50px;
+            color: rgb(107, 154, 209);
+        }
+        .spara{
+            font-size: 55px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: rgb(54, 131, 204);
+            
+        }
+        .imgp1{
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         font-size: 60px;
+         color: rgb(207, 21, 21);
+
+        }
+        .container3{
+            
+          
+            height: 700px;
+            
+        }
+        .textcon3{
+            margin-top: 150px;
+        }
+        .findpetp{
+            display: inline-block;
+            margin-left: 400px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 60px;
+            color: rgb(8, 10, 9);
+           
+            
+        }
+        .searchimg{
+            margin-left: 40px;
+            width: 50px;
+            margin-top: 10px;
+        }
+        .div3con{
+            display:grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            flex-direction: row;
+            justify-content: space-between;
+
+        }
+        .div3ima{
+            width:400px;
+            height:320px;
+            margin: 10px;
+        }
+        .div3con2{
+            display:flex;
+            grid-template-columns: 1fr 1fr 1fr;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        .button3{
+            margin: 5px;
+            border-radius: 10px;
+            border-color: black;
+            background-color: rgb(66, 78, 78);
+        }
+       
+        .div3para{
+            margin-left: 30px;
+            font-size: 37px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: rgb(5, 4, 4);
+        }
+        
+        
+       
+       
+        .fotter{
+            background-color: black;
+            height: 350px;
+            margin-top: 250px;
+            margin-bottom: 0px;
+            display: flex;
+            grid-template-columns: 1fr 1fr;
+            justify-content: space-between;
+            
+        }
+        .contact{
+            margin-top: 50px;
+            margin-left: 40px;
+        }
+        .description{
+            color: rgb(207, 22, 22);
+            margin-top: 50px;
+            margin-left: -100px;
+            width: 500px;
+        }
+        a{
+            text-decoration: none !important;
+        }
+
+        
+        
